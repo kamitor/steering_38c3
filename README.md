@@ -16,3 +16,6 @@ https://monitor.transluce.org/dashboard/chat
 https://transformer-circuits.pub/2021/framework/index.html
 https://sidn.baulab.info/stages/
 https://blog.eleuther.ai/autointerp/
+
+LLM interpretability bootcamp / execrises:
+https://github.com/callummcdougall/ARENA_3.0
